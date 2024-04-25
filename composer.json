@@ -14,7 +14,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.2.0 || ^7.4 || ^8.0 || ^8.1",
+        "php": "^7.2.0",
         "guzzlehttp/guzzle": "^6.5",
         "vlucas/phpdotenv": "^5.4",
         "myclabs/php-enum": "^1.8"
