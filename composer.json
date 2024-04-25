@@ -27,5 +27,5 @@
         "unit-test": "vendor/bin/phpunit --group unit",
         "integration-test": "vendor/bin/phpunit --group integration"
     },
-    "version": "1.0.0"
+    "minimum-stability": "dev"
 }
