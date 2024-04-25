@@ -23,11 +23,6 @@
             "terror\\WhatsAppCloudApi\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "terror\\WhatsAppCloudApi\\Tests\\": "tests"
-        }
-    },
     "scripts": {
         "unit-test": "vendor/bin/phpunit --group unit",
         "integration-test": "vendor/bin/phpunit --group integration"
