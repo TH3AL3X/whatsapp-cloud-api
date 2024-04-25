@@ -1,6 +1,6 @@
 {
     "name": "terror/whatsapp-cloud-api",
-    "description": "The first PHP SDK to send and receive messages using a cloud-hosted version of the WhatsApp Business Platform",
+    "description": "Adapted to 7.1 and old versions of PHP",
     "type": "library",
     "authors": [
         {
