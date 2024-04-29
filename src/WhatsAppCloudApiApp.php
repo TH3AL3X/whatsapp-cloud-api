@@ -6,17 +6,17 @@ class WhatsAppCloudApiApp
 {
     /**
      * @const string The name of the environment variable that contains the app from phone number ID.
-     */
+    */
     public const APP_FROM_PHONE_NUMBER_ENV_NAME = 'WHATSAPP_CLOUD_API_FROM_PHONE_NUMBER';
 
     /**
      * @const string The name of the environment variable that contains the app access token.
-     */
+    */
     public const APP_TOKEN_ENV_NAME = 'WHATSAPP_CLOUD_API_TOKEN';
 
     /**
      * @const string The name of the environment variable that contains the app Business ID.
-     */
+    */
     public const APP_BUSINESS_ID_ENV_NAME = 'WHATSAPP_CLOUD_API_BUSINESS_ID';
 
     /**
