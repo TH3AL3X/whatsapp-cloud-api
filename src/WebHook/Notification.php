@@ -1,8 +1,8 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\WebHook;
+namespace terror\WhatsAppCloudApi\WebHook;
 
-use Netflie\WhatsAppCloudApi\WebHook\Notification\Support;
+use terror\WhatsAppCloudApi\WebHook\Notification\Support;
 
 abstract class Notification
 {

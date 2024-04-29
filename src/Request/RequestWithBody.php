@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Request;
+namespace terror\WhatsAppCloudApi\Request;
 
 interface RequestWithBody
 {

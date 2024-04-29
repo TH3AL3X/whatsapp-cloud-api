@@ -1,9 +1,9 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Request\MediaRequest;
+namespace terror\WhatsAppCloudApi\Request\MediaRequest;
 
 use GuzzleHttp\Psr7;
-use Netflie\WhatsAppCloudApi\Request;
+use terror\WhatsAppCloudApi\Request;
 
 final class UploadMediaRequest extends Request
 {

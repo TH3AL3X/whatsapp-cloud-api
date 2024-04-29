@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message\Media;
+namespace terror\WhatsAppCloudApi\Message\Media;
 
 abstract class MediaID
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Response;
+namespace terror\WhatsAppCloudApi\Response;
 
-use Netflie\WhatsAppCloudApi\Response;
+use terror\WhatsAppCloudApi\Response;
 
 final class ResponseException extends \Exception
 {

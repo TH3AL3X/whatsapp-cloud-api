@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\WebHook;
+namespace terror\WhatsAppCloudApi\WebHook;
 
 final class NotificationFactory
 {

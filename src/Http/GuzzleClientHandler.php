@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Http;
+namespace terror\WhatsAppCloudApi\Http;
 
 use GuzzleHttp\Client;
 use Psr\Http\Message\ResponseInterface;

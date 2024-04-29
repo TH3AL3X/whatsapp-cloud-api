@@ -1,8 +1,8 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message;
+namespace terror\WhatsAppCloudApi\Message;
 
-use Netflie\WhatsAppCloudApi\Message\Media\MediaID;
+use terror\WhatsAppCloudApi\Message\Media\MediaID;
 
 final class DocumentMessage extends Message
 {

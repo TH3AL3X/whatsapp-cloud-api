@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message\ButtonReply;
+namespace terror\WhatsAppCloudApi\Message\ButtonReply;
 
 class ButtonAction
 {

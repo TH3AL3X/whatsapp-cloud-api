@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi;
+namespace terror\WhatsAppCloudApi;
 
 abstract class Request
 {

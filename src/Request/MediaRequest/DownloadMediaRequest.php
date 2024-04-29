@@ -1,8 +1,8 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Request\MediaRequest;
+namespace terror\WhatsAppCloudApi\Request\MediaRequest;
 
-use Netflie\WhatsAppCloudApi\Request;
+use terror\WhatsAppCloudApi\Request;
 
 final class DownloadMediaRequest extends Request
 {

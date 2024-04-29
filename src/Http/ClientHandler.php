@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Http;
+namespace terror\WhatsAppCloudApi\Http;
 
 interface ClientHandler
 {
@@ -14,7 +14,7 @@ interface ClientHandler
      *
      * @return RawResponse Response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function postJsonData(string $url, array $body, array $headers, int $timeout): RawResponse;
 
@@ -28,7 +28,7 @@ interface ClientHandler
      *
      * @return RawResponse Response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function postFormData(string $url, array $form, array $headers, int $timeout): RawResponse;
 
@@ -41,7 +41,7 @@ interface ClientHandler
      *
      * @return RawResponse Response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function get(string $url, array $headers, int $timeout): RawResponse;
 }

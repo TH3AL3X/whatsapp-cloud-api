@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message\Template;
+namespace terror\WhatsAppCloudApi\Message\Template;
 
 final class Component
 {

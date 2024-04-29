@@ -1,8 +1,8 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Request\BusinessProfileRequest;
+namespace terror\WhatsAppCloudApi\Request\BusinessProfileRequest;
 
-use Netflie\WhatsAppCloudApi\Request;
+use terror\WhatsAppCloudApi\Request;
 
 final class BusinessProfileRequest extends Request
 {

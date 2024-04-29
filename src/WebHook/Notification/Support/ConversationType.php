@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\WebHook\Notification\Support;
+namespace terror\WhatsAppCloudApi\WebHook\Notification\Support;
 
 /**
  * @method static ConversationType BUSINESS_INITIATED()

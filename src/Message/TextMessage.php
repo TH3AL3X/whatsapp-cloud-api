@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message;
+namespace terror\WhatsAppCloudApi\Message;
 
 final class TextMessage extends Message
 {

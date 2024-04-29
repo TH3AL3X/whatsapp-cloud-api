@@ -1,9 +1,9 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi;
+namespace terror\WhatsAppCloudApi;
 
-use Netflie\WhatsAppCloudApi\Http\ClientHandler;
-use Netflie\WhatsAppCloudApi\Http\GuzzleClientHandler;
+use terror\WhatsAppCloudApi\Http\ClientHandler;
+use terror\WhatsAppCloudApi\Http\GuzzleClientHandler;
 
 class Client
 {
@@ -40,7 +40,7 @@ class Client
      *
      * @return Response Raw response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function sendMessage(Request\RequestWithBody $request): Response
     {
@@ -70,7 +70,7 @@ class Client
      *
      * @return Response Raw response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function uploadMedia(Request\MediaRequest\UploadMediaRequest $request): Response
     {
@@ -100,7 +100,7 @@ class Client
      *
      * @return Response Raw response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function downloadMedia(Request\MediaRequest\DownloadMediaRequest $request): Response
     {
@@ -133,7 +133,7 @@ class Client
      *
      * @return Response Raw response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function businessProfile(Request\BusinessProfileRequest\BusinessProfileRequest $request): Response
     {
@@ -157,7 +157,7 @@ class Client
      *
      * @return Response Raw response from the server.
      *
-     * @throws Netflie\WhatsAppCloudApi\Response\ResponseException
+     * @throws terror\WhatsAppCloudApi\Response\ResponseException
      */
     public function updateBusinessProfile(Request\BusinessProfileRequest\UpdateBusinessProfileRequest $request): Response
     {

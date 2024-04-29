@@ -1,6 +1,6 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message\Contact;
+namespace terror\WhatsAppCloudApi\Message\Contact;
 
 final class ContactName
 {

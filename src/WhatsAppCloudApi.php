@@ -1,13 +1,13 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi;
+namespace terror\WhatsAppCloudApi;
 
-use Netflie\WhatsAppCloudApi\Message\ButtonReply\ButtonAction;
-use Netflie\WhatsAppCloudApi\Message\Contact\ContactName;
-use Netflie\WhatsAppCloudApi\Message\Contact\Phone;
-use Netflie\WhatsAppCloudApi\Message\Media\MediaID;
-use Netflie\WhatsAppCloudApi\Message\OptionsList\Action;
-use Netflie\WhatsAppCloudApi\Message\Template\Component;
+use terror\WhatsAppCloudApi\Message\ButtonReply\ButtonAction;
+use terror\WhatsAppCloudApi\Message\Contact\ContactName;
+use terror\WhatsAppCloudApi\Message\Contact\Phone;
+use terror\WhatsAppCloudApi\Message\Media\MediaID;
+use terror\WhatsAppCloudApi\Message\OptionsList\Action;
+use terror\WhatsAppCloudApi\Message\Template\Component;
 
 class WhatsAppCloudApi
 {

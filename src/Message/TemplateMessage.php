@@ -1,8 +1,8 @@
 <?php
 
-namespace Netflie\WhatsAppCloudApi\Message;
+namespace terror\WhatsAppCloudApi\Message;
 
-use Netflie\WhatsAppCloudApi\Message\Template\Component;
+use terror\WhatsAppCloudApi\Message\Template\Component;
 
 final class TemplateMessage extends Message
 {
