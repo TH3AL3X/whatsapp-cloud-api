@@ -14,9 +14,7 @@
     ],
     "license": "MIT",
     "require": {
-        "guzzlehttp/guzzle": "^6.5",
-        "vlucas/phpdotenv": "^5.4",
-        "myclabs/php-enum": "^1.8"
+        "guzzlehttp/guzzle": "^6.5"
     },
     "autoload": {
         "psr-4": {
